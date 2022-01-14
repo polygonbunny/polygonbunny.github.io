@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8bb3308d7312f44cf9ce49847dc459d605593e8b",
+  "SCAN_LINK": "https://polygonscan.com/token/0x8bb3308d7312f44cf9ce49847dc459d605593e8b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Polygon Bunny Gang",
+  "SYMBOL": "PBG",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/polygon-bunny-gang",
+  "SHOW_BACKGROUND": true
+}
